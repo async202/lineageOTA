@@ -1,11 +1,11 @@
 {
       "response": [
         {
-          "datetime": 1784978296,
+          "datetime": 1784980096,
           "filename": "lineage-18.1-20260725-UNOFFICIAL-le7n.zip",
           "id": "a874689ea825c324141e",
           "romtype": "unofficial",
-          "size": 879377067,
+          "size": 879373207,
           "url": "https://github.com/async202/lineageOTA/releases/download/otarelease-18.1/lineage-18.1-20260725-UNOFFICIAL-le7n.zip",
           "version": "18.1"
         }
